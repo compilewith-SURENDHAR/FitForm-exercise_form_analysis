@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+ffenv/
+.DS_Store
+**/__pycache__
+.idea/
+atlas/
+desc.txt

@@ -1,0 +1,91 @@
+@font-face {
+    font-family: "Biotif";
+    src: url(./Biotif-Bold.ttf);
+}
+
+* {
+    margin: 0;
+    background-color: #095015;
+}
+
+body {
+    font-family: "Biotif";
+}
+
+.main {
+    /* background-color: #013e54; */
+    height: auto;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.head {
+    display: flex;
+    font-size: 75px;
+    color: rgb(30, 16, 136);
+}
+
+.logo {
+    height: 17.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feed {
+    display: flex;
+    width: 65vw;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: 2px solid rgb(187, 180, 41);
+}
+
+.main-container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.button-row {
+    align-items: center;
+    justify-content: center;
+    width: 65vw;
+}
+
+.choices {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2px;
+}
+
+.disclaimer {
+    color: white;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2px;
+}
+
+.table {
+    margin: auto;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
