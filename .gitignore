@@ -5,3 +5,4 @@ ffenv/
 .idea/
 atlas/
 desc.txt
+.env
