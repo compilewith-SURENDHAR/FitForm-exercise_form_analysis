@@ -1,6 +1,6 @@
 opencv-python
 numpy
-dash==2.11.1
+Flask
 mediapipe
 tensorflow
 keras
@@ -10,4 +10,3 @@ seaborn
 pycm
 pandas
 plotly
-dash_dangerously_set_inner_html

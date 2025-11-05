@@ -6,7 +6,9 @@ Our project is an AI-based Personalised Exercise Feedback Assistant: an algorith
 
 # to run
 
-To run the app, first run pip install -r requirements.txt and then run app_squat.py
+To run the app, first run `pip install -r requirements.txt` and then run `python app_squat.py`
+
+The app will be available at http://localhost:8050
 
 # overall logic behind
 
